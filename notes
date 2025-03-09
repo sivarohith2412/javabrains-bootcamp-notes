@@ -1,1 +1,28 @@
-this is notes
+Key Learnings from the Session
+Boot Camp Overview
+Introduction to the structure and workflow of the boot camp.
+Web Requests & Architecture
+Understanding how web requests function.
+Exploring the multiple tiers in web development: Frontend & Backend.
+Content Delivery Networks (CDNs)
+CDNs act as edge servers, distributing static content.
+They improve performance by serving data from locations closer to users.
+HTTP Requests & Responses
+Different HTTP request types: GET, POST, PUT, DELETE.
+Version Control with Git & GitHub
+Git: A version control system for tracking changes in code.
+GitHub: A platform for hosting and collaborating on repositories.
+Contributing to Open Source – Pull Request Workflow
+Fork the repository.
+Clone it to the local system.
+Create a new branch.
+Modify the code as needed.
+Push changes to the remote repository.
+Submit a Pull Request to merge updates into the main branch.
+
+
+
+
+
+
+
